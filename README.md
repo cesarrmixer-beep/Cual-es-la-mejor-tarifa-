@@ -1,2 +1,4 @@
 # Cual-es-la-mejor-tarifa-
 La compañía de telecomunicaciones Megaline, ofrece a sus clientes dos tarifas de prepago. El departamento de comercial quiere saber cual de las de las tarifas genera mas ingresos para poder ajustar el presupuesto de publicidad.
+
+En este proyecto tueb un poco mas de libertad para hacer mis comentarios, ademas de enriquecer los datos con manipulacion adecuada, cambiar formato de columnas, limpiar duplicados, covertir datos al formato  to_datetime, realice agrupaciones con groupby, juntar tablas mediante la funcion merge , realice alginas graficas para reprecentar el comportamiento de lso clientes con su planes con la libreria plotly, tambien realice el calculo de la media, varianza y desiacion estandar y por ultimo realice una prueba de hipotesis estadistica que concluyo que los ingresos del plan surf debe seguri siendo empujada al consumidor. 
